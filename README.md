@@ -1,5 +1,5 @@
-# documents
-HPDE specifications, recommendations and related documents.
+# Documents
+Specifications, recommendations and related documents.
 
 ## How To
 1. How to Create and Share SPASE Resource Descriptions [ [Word](docs/How-to-Create-and-Share-SPASE-Resource-Descriptions.docx) | [PDF](docs/How-to-Create-and-Share-SPASE-Resource-Descriptions.pdf) ]
