@@ -11,7 +11,7 @@ Specifications, recommendations and related documents.
    - Information Model [ [PNG](docs/SPASE-Information-Model-Base.png) ]
    - Simulation Extensions [ [PNG](docs/SPASE-Information-Model-Simulation.png) ]
    - Integrated Information Model [ [PNG](docs/SPASE-Full-Information-Model.png)]
-   - Resource Description Overview [ [PNG](SPASE-Resource-Description-Overview.png) ]
+   - Resource Description Overview [ [PNG](docs/SPASE-Resource-Description-Overview.png) ]
    
 ## Plans
 1. VxO NASA Naming Authotity Migration-Plan [ [Word](docs/VxO-NASA-Naming-Authority-Migration-Plan.docx) | [PDF](docs/VxO-NASA-Naming-Authority-Migration-Plan.pdf) ]
