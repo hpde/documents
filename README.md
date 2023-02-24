@@ -18,6 +18,6 @@ Specifications, recommendations and related documents.
 1. VxO NASA Naming Authotity Migration-Plan [ [Word](docs/VxO-NASA-Naming-Authority-Migration-Plan.docx) | [PDF](docs/VxO-NASA-Naming-Authority-Migration-Plan.pdf) ]
 
 ## Administration
-1. HPDE Assets [ [Word](docs/HPDE-Assets.docx) | [2021-05-29 PDF](docs/HPDE-Assets-2021-05-29.pdf) | [2021-07-29 PDF](docs/HPDE-Assets-2021-07-29.pdf) ]
+1. HPDE Assets - see Documents-private repo
  
 
